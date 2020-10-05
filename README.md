@@ -1,7 +1,7 @@
 # flutter-temp-app
-Challenge to create a flutter app
+Modify flutter app
 
-Create a flutter application with basic interface and one api call to fetch. 
+Improve this flutter application with basic interface and  api call to fetch temperature. 
 
 Use it as an opportunity to participate in hacktoberfest
 
